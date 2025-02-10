@@ -1,0 +1,78 @@
+*{
+padding: 0;
+margin: 0;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
+    height: 400px;
+    width:520px;
+    position: relative;
+    left: 500px;
+    top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(156, 170, 177, 0.5);
+    border-radius: 20px;
+    border:2px,solid,rgba(44, 91, 114, 0.5);
+}
+#username{
+    height: 30px;
+    width: 300px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+#password{
+    height: 30px;
+    width: 300px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+#button{
+    height:40px;
+    width:200px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border:2px,solid,rgba(27, 40, 181, 0.7);
+    position: relative;
+    top: 20px;
+}
+#button:hover{
+    background-color:rgb(36, 169, 138);
+}
+#input-type{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20px;
+}
+#Input-type{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/autumn-background-with-trees-landscape_23-2147884525.jpg?t=st=1738983847~exp=1738987447~hmac=cb3f97607672e069b6cbcd18726596b2c0bb8d760cf709bb639d684c5eb8e6ec&w=740);
+    opacity: 1;
+    image-resolution: 0.9;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    margin-bottom: 20px;
+    position: relative;
+    left:10px;
+    text-decoration: none;
+}
+#a1{
+    display: inline-block;
+    margin-bottom: 10px;
+
+}
+#A{
+text-decoration: none;
+
+}
