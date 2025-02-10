@@ -1,2 +1,2 @@
 # Log-in
-# first repo its a common Log in page
+This is a common Log in page for any websites to use for.
